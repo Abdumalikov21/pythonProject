@@ -1,0 +1,21 @@
+# upper() - textni katta harfga aylantirish
+# text = 'assalomu aleykum'
+# text = text.upper()
+# print(text)
+
+# lower() - textni kichik harfga aylantiradi
+# text = 'AsSALOmU aLEyKUM'
+# print(text.lower())
+
+# capitalize() - berilgan textni faqt bosh harfini
+#                       katta qilib beradi
+# text = 'assalomu aleykum'
+# print(text.capitalize())
+
+# title() - berilgan textdagi har bir sozni
+#               bosh harfini katta qilib beradi
+text = 'assalomu aley kum hammaga'
+print(text.title())
+
+
+

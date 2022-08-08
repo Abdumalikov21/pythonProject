@@ -1,0 +1,5 @@
+# range(stop)
+# range(start,stop)
+# range(start, stop, step)
+a=list(range(100,0,-1))
+print()
